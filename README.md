@@ -50,7 +50,7 @@ VITE_NEARBYY_API_KEY = YOUR_NEARBBY_API_KEY
 
 ```
 
-## Getting Started with Ultimos-dos-psets (BACK-END)
+## Getting Started with server-start (BACK-END)
 
 ### Dependancies
 
