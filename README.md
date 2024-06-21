@@ -1,4 +1,4 @@
-# ChatAI with Retrieval Augmented Generation (RAG)
+# ContextBot: ChatAI with Retrieval Augmented Generation (RAG)
 
 ## Overview
 
